@@ -15,7 +15,6 @@
   - [**shoot me a DM**](#connect-with-me)
 - ⚡ Fun fact ... **I ❤️ iced latte**
 
-
 ## My Github Stats
 ![Github Stats](https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false)
 
@@ -24,13 +23,13 @@
 
 
 ## Connect With Me
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg {width=32px height=32px})][twitter]
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg {width=32px height=32px})][instagram]
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg {width=32px height=32px})][linkedin]
-[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg {width=32px height=32px})][discord]
-[![Reddit](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg {width=32px height=32px})][reddit]
-[![Steam](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg {width=32px height=32px})][steam]
-[![Spotify](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg {width=32px height=32px})][spotify]
+[<img align="left" alt="mikeanth | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mikeanth | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mikeanth | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mikeanth | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="mikeanth | Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="mikeanth | Steam" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="mikeanth | Spotify" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 [twitter]: https://twitter.com/mikeanth
 [instagram]: https://www.instagram.com/mike_anth/
