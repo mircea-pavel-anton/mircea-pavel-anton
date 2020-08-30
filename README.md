@@ -3,9 +3,11 @@
 ### I'm Mircea Anton, a CS student from Romania
 
 - 🔭 I’m currently working on...
+
   <a href="https://github.com/mikeanth-dvlp/FluKabo">
     <img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api/pin/?username=mikeanth-dvlp&repo=flukabo" />
   </a>
+  
   - ... **My health and fitness** :muscle:
   - ... **Expanding my Homelab and having fun with it** :computer:
 - 🌱 I’m currently learning...
@@ -23,9 +25,9 @@
 
 ## My Github Stats :nerd_face:
 
-<img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false"/>
-<img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api/top-langs/?username=mikeanth-dvlp&layout=compact" />
-
+| Git Stats | Most Used Languages |
+| :-: | :-: |
+| ![Github Stats](https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false&hide_title=true) | ![Languages](https://github-readme-stats.mikeanth-dvlp.vercel.app/api/top-langs/?username=mikeanth-dvlp&layout=compact&hide_title=true) |
 ---
 
 ### Spotify Playing 🎧
