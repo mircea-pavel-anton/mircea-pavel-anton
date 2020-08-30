@@ -25,12 +25,12 @@
 
 ## Connect With Me
 [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)][twitter]
-[![Instagram]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg")][instagram]
-[![LinkedIn]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg")][linkedin]
-[![Discord]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg")][discord]
-[![Reddit]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg")][reddit]
-[![Steam]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg")][steam]
-[![Spotify]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg")][spotify]
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)][instagram]
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
+[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg)][discord]
+[![Reddit](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg)][reddit]
+[![Steam](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg)][steam]
+[![Spotify](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg)][spotify]
 
 [twitter]: https://twitter.com/mikeanth
 [instagram]: https://www.instagram.com/mike_anth/
