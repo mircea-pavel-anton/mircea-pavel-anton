@@ -15,7 +15,7 @@
   - [**shoot me a DM**](#connect-with-me)
 - ⚡ Fun fact ... **I ❤️ iced latte**
 
-<img align="left" alt="MikeAnth's Github Stats" src="https://https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=true"/>
+<img align="left" alt="MikeAnth's Github Stats" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=true"/>
 
 
 ## Connect With Me
