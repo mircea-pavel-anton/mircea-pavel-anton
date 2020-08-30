@@ -1,4 +1,4 @@
-# Hi there, I'm Mircea Anton - aka MikeAnthony
+### Hi there, I'm Mircea Anton - aka MikeAnthony
 
 - 🔭 I’m currently working on...
   - ... [**FluKaBo**](https://github.com/mikeanth-dvlp/FluKabo)
