@@ -1,36 +1,48 @@
-### Hi there, I'm Mircea Anton - aka MikeAnthony
+# Hi there 👋
+
+### I'm Mircea Anton, a CS student from Romania
 
 - 🔭 I’m currently working on...
-  - ... [**FluKaBo**](https://github.com/mikeanth-dvlp/FluKabo)
-  - ... **My health and fitness**
-  - ... **Expanding my Homelab and having fun with it**
+  <a href="https://github.com/mikeanth-dvlp/FluKabo">
+    <img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api/pin/?username=mikeanth-dvlp&repo=flukabo" />
+  </a>
+  - ... **My health and fitness** :muscle:
+  - ... **Expanding my Homelab and having fun with it** :computer:
 - 🌱 I’m currently learning...
   - **Flutter** & **Dart**
-  - Deploying web services/microservices via containers/docker to my Homelab
+  - **Deploying web services/microservices via containers/docker to my Homelab**
 - 👯 I’m looking to collaborate... **with other open-source devs**
 - 🔥 2021 goals... **contribute almost daily**
 - 💬 Ask me about ... **anything and everything**
-- 📫 How to reach me ... 
-  - [**shoot me an email**](mailto:mike.anth99@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 How to reach me ...
+  - [**shoot me an email**][mail]
   - [**shoot me a DM**](#connect-with-me)
-- ⚡ Fun fact ... **I ❤️ iced latte**
+- ⚡ Fun fact ... **I :heart: iced latte**
 
-## My Github Stats
-![Github Stats](https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false)
+---
+
+## My Github Stats :nerd_face:
+
+<img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false"/>
+<img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api/top-langs/?username=mikeanth-dvlp&layout=compact" />
+
+---
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-readme.mikeanth-dvlp.vercel.app/api/spotify)][spotify]
+
+[![Spotify](https://spotify-readme.mikeanth-dvlp.vercel.app/api/spotify-playing)][spotify]
 
 ---
 
 ## Connect With Me
-[<img align="center" alt="mikeanth | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="mikeanth | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="mikeanth | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="mikeanth | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="center" alt="mikeanth | Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="center" alt="mikeanth | Steam" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="center" alt="mikeanth | Spotify" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+
+[<img align="left" alt="mikeanth | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mikeanth | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mikeanth | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mikeanth | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="mikeanth | Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="mikeanth | Steam" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="mikeanth | Spotify" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 [twitter]: https://twitter.com/mikeanth
 [instagram]: https://www.instagram.com/mike_anth/
@@ -39,3 +51,4 @@
 [reddit]: https://www.reddit.com/user/MikeAnth
 [steam]: https://steamcommunity.com/id/mikeanth/
 [spotify]: https://open.spotify.com/user/jpa2p7j8yrjjce6qtfze0uea5
+[mail]: mailto:mike.anth99@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
