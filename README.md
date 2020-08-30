@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on...
   - ... **[Flukabo](https://github.com/mikeanth-dvlp/FluKabo)**
   - ... **My health and fitness** :muscle:
-  - ... **Expanding my Homelab and having fun with it** :computer:
+  - ... **Expanding my [Homelab](https://github.com/mikeanth-dvlp/mikeanth-dvlp/projects/1) and having fun with it** :computer:
 - 🌱 I’m currently learning...
   - **Flutter** & **Dart**
   - **Deploying web services/microservices via containers/docker to my Homelab**
