@@ -13,11 +13,11 @@
 - 🔥 2021 goals... **contribute almost daily**
 - 💬 Ask me about ... **anything and everything**
 - 📫 How to reach me ... [**shoot me a DM**](#connect-with-me)
-- ⚡ Fun fact ... **I :heart: iced latte**
+- ⚡ Fun fact ... **I ❤️ iced latte**
 
 ---
 
-## My Github Stats :nerd_face:
+## My Github Stats 🤓
 
 | Git Stats | Most Used Languages |
 | :-: | :-: |
