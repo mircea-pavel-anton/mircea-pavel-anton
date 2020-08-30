@@ -7,7 +7,7 @@
   <a href="https://github.com/mikeanth-dvlp/FluKabo">
     <img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api/pin/?username=mikeanth-dvlp&repo=flukabo" />
   </a>
-  
+
   - ... **My health and fitness** :muscle:
   - ... **Expanding my Homelab and having fun with it** :computer:
 - 🌱 I’m currently learning...
@@ -16,9 +16,7 @@
 - 👯 I’m looking to collaborate... **with other open-source devs**
 - 🔥 2021 goals... **contribute almost daily**
 - 💬 Ask me about ... **anything and everything**
-- 📫 How to reach me ...
-  - [**shoot me an email**][mail]
-  - [**shoot me a DM**](#connect-with-me)
+- 📫 How to reach me ... [**shoot me a DM**](#connect-with-me)
 - ⚡ Fun fact ... **I :heart: iced latte**
 
 ---
@@ -38,13 +36,15 @@
 
 ## Connect With Me
 
-[<img align="left" alt="mikeanth | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mikeanth | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mikeanth | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mikeanth | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="mikeanth | Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="mikeanth | Steam" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="mikeanth | Spotify" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)][discord]
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)][mail]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)][reddit]
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
+[![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 
 [twitter]: https://twitter.com/mikeanth
 [instagram]: https://www.instagram.com/mike_anth/
@@ -54,3 +54,4 @@
 [steam]: https://steamcommunity.com/id/mikeanth/
 [spotify]: https://open.spotify.com/user/jpa2p7j8yrjjce6qtfze0uea5
 [mail]: mailto:mike.anth99@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
+[facebook]: https://www.facebook.com/cheeky.breekyy
