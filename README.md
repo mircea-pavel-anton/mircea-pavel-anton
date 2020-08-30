@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on...
   - ... [**FluKaBo**](https://github.com/mikeanth-dvlp/FluKabo)
   - ... **My health and fitness**
-  - ... **Expanding and having fun with my Homelab**
+  - ... **Expanding my Homelab and having fun with it**
 - 🌱 I’m currently learning...
   - **Flutter** & **Dart**
   - Deploying web services/microservices via containers/docker to my Homelab
