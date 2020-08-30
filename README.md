@@ -3,11 +3,7 @@
 ### I'm Mircea Anton, a CS student from Romania
 
 - 🔭 I’m currently working on...
-
-  <a href="https://github.com/mikeanth-dvlp/FluKabo">
-    <img align="center" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api/pin/?username=mikeanth-dvlp&repo=flukabo" />
-  </a>
-
+  - ... **[Flukabo](https://github.com/mikeanth-dvlp/FluKabo)**
   - ... **My health and fitness** :muscle:
   - ... **Expanding my Homelab and having fun with it** :computer:
 - 🌱 I’m currently learning...
