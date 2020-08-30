@@ -15,20 +15,22 @@
   - [**shoot me a DM**](#connect-with-me)
 - ⚡ Fun fact ... **I ❤️ iced latte**
 
-<img align="left" alt="MikeAnth's Github Stats" src="https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=true"/>
+
+## My Github Stats
+![Github Stats](https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false)
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme.mikeanth-dvlp.vercel.app/api/spotify-playing" alt="MikeAnth's Spotify Playing" width="350" />][spotify]
+[![Spotify](https://spotify-readme.mikeanth-dvlp.vercel.app/api/spotify)][spotify]
 
 
 ## Connect With Me
-[<img align="left" alt="MikeAnth | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MikeAnth | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MikeAnth | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MikeAnth | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="MikeAnth | Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="MikeAnth | Steam" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="MikeAnth | Spotify" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)][twitter]
+[![Instagram]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg")][instagram]
+[![LinkedIn]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg")][linkedin]
+[![Discord]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg")][discord]
+[![Reddit]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg")][reddit]
+[![Steam]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg")][steam]
+[![Spotify]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg")][spotify]
 
 [twitter]: https://twitter.com/mikeanth
 [instagram]: https://www.instagram.com/mike_anth/
