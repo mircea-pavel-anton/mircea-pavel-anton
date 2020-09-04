@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Mircea Anton, a Cmputer Science student from Bucharest, Romania
+## I'm Mircea Anton, a Computer Science student from Bucharest, Romania
 
 - 🎓 I'm currently studying at... [University Politehnica of Bucharest](https://international.upb.ro/)
 - 🔭 I’m currently working on...
