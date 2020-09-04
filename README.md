@@ -1,11 +1,12 @@
 # Hi there 👋
 
-### I'm Mircea Anton, a CS student from Romania
+## I'm Mircea Anton, a Cmputer Science student from Bucharest, Romania
 
+- 🎓 I'm currently studying at... [University Politehnica of Bucharest](https://international.upb.ro/)
 - 🔭 I’m currently working on...
   - ... **[Flukabo](https://github.com/mikeanth-dvlp/FluKabo)**
-  - ... **My health and fitness** :muscle:
-  - ... **Expanding my Homelab and having fun with it** :computer:
+  - ... **My health and fitness** 💪
+  - ... **Expanding my Homelab and having fun with it** 🖥️
 - 🌱 I’m currently learning...
   - **Flutter** & **Dart**
   - **Deploying web services/microservices via containers/docker to my Homelab**
@@ -17,20 +18,20 @@
 
 ---
 
-## My Github Stats 🤓
+### 🤓 My Github Stats
 
 | Git Stats | Most Used Languages |
 | :-: | :-: |
 | ![Github Stats](https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false&hide_title=true) | ![Languages](https://github-readme-stats.mikeanth-dvlp.vercel.app/api/top-langs/?username=mikeanth-dvlp&layout=compact&hide_title=true) |
 ---
 
-### Spotify Playing 🎧
+### 🎧 Currently Jamming to...
 
 [![Spotify](https://spotify-readme.mikeanth-dvlp.vercel.app/api/spotify-playing)][spotify]
 
 ---
 
-## Connect With Me
+### 🗨️ Connect With Me
 
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)][discord]
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
