@@ -18,20 +18,7 @@
 
 ---
 
-### 🤓 My Github Stats
-
-| Git Stats | Most Used Languages |
-| :-: | :-: |
-| ![Github Stats](https://github-readme-stats.mikeanth-dvlp.vercel.app/api?username=mikeanth-dvlp&show_icons=true&hide_border=false&hide_title=true) | ![Languages](https://github-readme-stats.mikeanth-dvlp.vercel.app/api/top-langs/?username=mikeanth-dvlp&layout=compact&hide_title=true) |
----
-
-### 🎧 Currently Jamming to...
-
-[![Spotify](https://spotify-readme.mikeanth-dvlp.vercel.app/api/spotify-playing)][spotify]
-
----
-
-### 🗨️ Connect With Me
+## 🗨️ Connect With Me
 
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)][discord]
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
