@@ -11,7 +11,6 @@
   - **Flutter** & **Dart**
   - **Deploying web services/microservices via containers/docker to my Homelab**
 - 👯 I’m looking to collaborate... **with other open-source devs**
-- 🔥 2021 goals... **contribute almost daily**
 - 💬 Ask me about ... **anything and everything**
 - 📫 How to reach me ... [**shoot me a DM**](#connect-with-me)
 - ⚡ Fun fact ... **I ❤️ iced latte**
