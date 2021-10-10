@@ -4,11 +4,11 @@
 
 - 🎓 I'm currently studying at... [University Politehnica of Bucharest](https://international.upb.ro/)
 - 🔭 I’m currently working on...
-  - ... **[Flukabo](https://github.com/mikeanth-dvlp/FluKabo)**
+  - ... **automating all my life away with python and ansible**
   - ... **My health and fitness** 💪
   - ... **Expanding my Homelab and having fun with it** 🖥️
 - 🌱 I’m currently learning...
-  - **Flutter** & **Dart**
+  - **Ansible** & **Kubernetes**
   - **Deploying web services/microservices via containers/docker to my Homelab**
 - 👯 I’m looking to collaborate... **with other open-source devs**
 - 💬 Ask me about ... **anything and everything**
