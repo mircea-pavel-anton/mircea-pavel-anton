@@ -15,7 +15,15 @@
 - 📫 How to reach me ... [**shoot me a DM**](#connect-with-me)
 - ⚡ Fun fact ... **I ❤️ iced latte**
 
----
+<center>
+<a href="https://github.com/mirceanton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirceanton&show_icons=true&theme=onedark&hide=stars" />
+</a>
+<a href="https://github.com/mirceanton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirceanton&layout=compact&theme=onedark" />
+</a>
+</center>
+
 
 ## 🗨️ Connect With Me
 
