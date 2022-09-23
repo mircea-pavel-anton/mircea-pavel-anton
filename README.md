@@ -6,11 +6,9 @@
 
 ## I'm Mircea Anton, a Computer Science student from Bucharest, Romania
 
-- 🎓 I'm currently studying at... [University Politehnica of Bucharest](https://international.upb.ro/)
 - 🔭 I’m currently working on...
-  - ... **automating all my life away with python and ansible**
+  - ... implementing the entirety of my HomeLab via IaC
   - ... **My health and fitness** 💪
-  - ... **Expanding my Homelab and having fun with it** 🖥️
 - 🌱 I’m currently learning...
   - **Ansible** & **Kubernetes**
   - **Deploying web services/microservices via containers/docker to my Homelab**
