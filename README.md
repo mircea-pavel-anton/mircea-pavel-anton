@@ -10,8 +10,7 @@
   - ... implementing the entirety of my HomeLab via IaC
   - ... **My health and fitness** 💪
 - 🌱 I’m currently learning...
-  - **Ansible** & **Kubernetes**
-  - **Deploying web services/microservices via containers/docker to my Homelab**
+  - to get my C.K.A. & C.K.A.D.
 - 👯 I’m looking to collaborate... **with other open-source devs**
 - 📫 How to reach me ... [**shoot me a DM**](https://mirceanton.com/contact)
 - ⚡ Fun fact ... **I ❤️ iced latte**
