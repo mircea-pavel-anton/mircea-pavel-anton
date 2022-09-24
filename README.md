@@ -13,6 +13,5 @@
   - **Ansible** & **Kubernetes**
   - **Deploying web services/microservices via containers/docker to my Homelab**
 - 👯 I’m looking to collaborate... **with other open-source devs**
-- 💬 Ask me about ... **anything and everything**
-- 📫 How to reach me ... [**shoot me a DM**](#connect-with-me)
+- 📫 How to reach me ... [**shoot me a DM**](https://mirceanton.com/contact)
 - ⚡ Fun fact ... **I ❤️ iced latte**
