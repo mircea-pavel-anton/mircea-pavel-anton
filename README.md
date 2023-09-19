@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirceanton&show_icons=true&theme=onedark&hide=stars" />
 </a>
 
-## I'm Mircea Anton, a ML Ops from Bucharest, Romania
+## I'm Mircea Anton, a ML OPS Engineer from Bucharest, Romania
 
 - 🔭 I’m currently working on...
   - ... implementing the entirety of my HomeLab via GitOps
